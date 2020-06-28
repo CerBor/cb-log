@@ -7,7 +7,7 @@ npm i cb-log
 ```
 ## Import
 ```javascript
-var cb = require("cb-log");
+var cb_log = require("cb-log");
 ```
 ## Usage
 ```javascript
@@ -15,14 +15,14 @@ cb.log();
 ```
 ### Displays plain text, like a console.log().
 ```javascript
-cb.logln();
+cb_log.logln();
 ```
-### Like ```cb.log()```, but starts with ```\n```
+### Like ```cb_log.log()```, but starts with ```\n```
 ```javascript
-cb.logSuccess():
+cb_log.logSuccess():
 ```
 ### Displays a lightgreen text
 ```javascript
-cb.logInfo();
+cb_log.logInfo();
 ```
-### like ```cb.logSuccess()```, but lightcyan color
+### like ```cb_log.logSuccess()```, but lightcyan color
