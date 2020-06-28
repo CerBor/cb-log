@@ -11,7 +11,7 @@ var cb_log = require("cb-log");
 ```
 ## Usage
 ```javascript
-cb.log();
+cb_log.log();
 ```
 ### Displays plain text, like a console.log().
 ```javascript
