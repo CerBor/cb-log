@@ -9,3 +9,7 @@ npm i cb-log
 ```javascript
 var cb = require("cb-log");
 ```
+## Usage
+```javascript
+cb.log();
+```
