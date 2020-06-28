@@ -2,7 +2,7 @@
 A very easy console.log()
 
 ## Instalation
-```node
+```npm
 npm i cb-log
 ```
 Import
