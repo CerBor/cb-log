@@ -22,3 +22,7 @@ cb.logln();
 cb.logSuccess():
 ```
 ### Displays a lightgreen text
+```javascript
+cb.logInfo();
+```
+### Displays a lightcyan text
