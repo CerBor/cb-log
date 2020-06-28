@@ -1,5 +1,5 @@
 # cb-log
-A very easy console.log()
+A very easy ```console.log()```
 
 ## Instalation
 ```
