@@ -17,7 +17,7 @@ cb.log();
 ```javascript
 cb.logln();
 ```
-### Like cb.log(), but starts with ```\n```
+### Like ```cb.log()```, but starts with ```\n```
 ```javascript
 cb.logSuccess():
 ```
@@ -25,4 +25,4 @@ cb.logSuccess():
 ```javascript
 cb.logInfo();
 ```
-### Displays a lightcyan text
+### like ```cb.logSuccess()```, but lightcyan color
