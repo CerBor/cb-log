@@ -2,7 +2,7 @@
 A very easy console.log()
 
 ## Instalation
-```
+```javascript
 npm i cb-log
 ```
 Import
