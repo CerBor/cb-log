@@ -17,4 +17,4 @@ cb.log();
 ```javascript
 cb.logln();
 ```
-### Like cb.log(), but starts with ```javascript \n```
+### Like cb.log(), but starts with ```\n```
