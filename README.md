@@ -18,3 +18,7 @@ cb.log();
 cb.logln();
 ```
 ### Like cb.log(), but starts with ```\n```
+```javascript
+cb.logSuccess():
+```
+### Displays a lightgreen text
