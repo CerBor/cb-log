@@ -5,7 +5,7 @@ A very easy console.log()
 ```
 npm i cb-log
 ```
-Import
+## Import
 ```javascript
 var cb = require("cb-log");
 ```
