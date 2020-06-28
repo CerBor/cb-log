@@ -14,3 +14,7 @@ var cb = require("cb-log");
 cb.log();
 ```
 ### Displays plain text, like a console.log().
+```javascript
+cb.logln();
+```
+### Like cb.log(), but starts with \n
