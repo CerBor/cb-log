@@ -13,3 +13,4 @@ var cb = require("cb-log");
 ```javascript
 cb.log();
 ```
+### Displays plain text, like a console.log().
