@@ -21,6 +21,10 @@ cb_log.logln();
 ```javascript
 cb_log.logSuccess():
 ```
+### Displays a lightred text
+```javascript
+cb_log.logDanger();
+```
 ### Displays a lightgreen text
 ```javascript
 cb_log.logInfo();
